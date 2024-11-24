@@ -1,0 +1,10 @@
+../Core/Src/main.c:79:10:Read_ADC	1
+../Core/Src/main.c:85:7:Calculate_RPM	1
+../Core/Src/main.c:93:6:PID_Control	3
+../Core/Src/main.c:120:5:main	1
+../Core/Src/main.c:174:6:SystemClock_Config	3
+../Core/Src/main.c:220:13:MX_ADC3_Init	3
+../Core/Src/main.c:272:13:MX_TIM2_Init	4
+../Core/Src/main.c:321:13:MX_TIM3_Init	4
+../Core/Src/main.c:366:13:MX_GPIO_Init	1
+../Core/Src/main.c:388:6:Error_Handler	1
